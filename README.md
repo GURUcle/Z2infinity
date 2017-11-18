@@ -1,0 +1,2 @@
+# 02infinity
+AI project
